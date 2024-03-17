@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+header{
+    background-color:#A9A9A9 ;
+    display: flex;
+    justify-content:space-around;
+    align-items: center ;
+    
+}
+#seber{
+    height: 50px;
+    background-color: rgba(0, 255, 255,0.5);
+    display: inline-block;
+    padding: 12px 32px;
+    border-radius: 6px;
+}
+body{
+    font-family: "Oswald", sans-serif;
+    font-size: 20px;
+         }
+main{
+    background-image: url(wite.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    padding: 20px;
+}         
+footer{
+    background-color:#A9A9A9 ;
+    display: flex;
+    justify-content:center;
+    align-items: center ;
+}
